@@ -1,0 +1,26 @@
+D:\projetos\curso-rocketseat-youtube\redux
+├── package.json
+├── yarn.lock
+├── src
+|  ├── App.js
+|  ├── index.js
+|  ├── store.js
+|  ├── TodoList.js
+|  ├── actions
+|  |  └── todos.js
+|  ├── reducers
+|  |  ├── todos.js
+|  |  └── index.js
+|  └── Counter.js
+├── public
+|  ├── favicon.ico
+|  ├── index.html
+|  ├── logo512.png
+|  ├── logo192.png
+|  ├── robots.txt
+|  └── manifest.json
+├── README.md
+
+directory: 3203 file: 13633
+
+ignored: directory (211), file (1)
